@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:32:15.701Z",
+  "generated_at": "2026-11-14T17:35:55.910Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -165,6 +165,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-12T16:32:11.953Z",
       "last_pushed_at": "2026-11-12T16:32:11.953Z"
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-11-14T17:35:53.844Z",
+      "last_pushed_at": "2026-11-14T17:35:53.844Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
